@@ -32,3 +32,10 @@ var viewModel= ();
 
 ```
 
+- 즉시실행 함수 
+```javascript
+(function(){
+    //code
+})();
+```
+위처럼 코드를 작성하면 즉시실행되는 함수이다. 
